@@ -70,16 +70,16 @@ The notebooks focus on different aspects of the project:
 - `faster_rcnn_training.ipynb` - Faster R-CNN model training
 - `faster_rcnn_inference.ipynb` - Faster R-CNN model inference 
 - `mask_rcnn_training.ipynb` - Mask R-CNN model training 
-- `mask_rcnn_inference.ipynb` - Mask R-CNN model inference 
+- `mask_rcnn_inference.ipynb` - Mask R-CNN model inference
 
 
+## Credits & Acknowledgements
 
-Credits & Acknowledgements
-
-Kaggle for providing GPU resources.
-
-Ultralytics, Detectron2, PyTorch for model implementations.
-
-Open-source satellite imagery sources for dataset collection.
-
-# test_solarrr
+* **Google Colab** for providing initial data collection environment.
+* **Kaggle** for providing GPU resources for model training and experimentation.
+* **Ultralytics** for their YOLOv11 implementation and documentation.
+* **Detectron2** for providing the Faster R-CNN and Mask R-CNN model implementations.
+* **PyTorch** for the deep learning framework and community support.
+* **Google Maps Platform** for providing access to high-resolution satellite imagery.
+* **Roboflow** for their excellent annotation tools and preprocessing pipeline support.
+* **Open-source community** for various tools, libraries, and resources that made this project possible.
